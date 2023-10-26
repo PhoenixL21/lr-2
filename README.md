@@ -49,6 +49,7 @@ sheets и google drive.
 - Написать функционал на Unity, в котором будет воспризводиться аудио-
 файл в зависимости от значения данных из таблицы.
 ![image](https://user-images.githubusercontent.com/113620568/193410116-efc123b9-ab2c-4f5d-abe2-ebf04f415131.png)
+![image](https://user-images.githubusercontent.com/113620568/193410121-fb392c36-dc87-42b1-88f1-991f9a9a4770.png)
 
 
 
