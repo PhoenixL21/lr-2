@@ -240,6 +240,9 @@ for i in range(10):
     sh.sheet1.update(('C' + str(i + 1)), str(diff_loss))
 ```
 
+![image](https://user-images.githubusercontent.com/113620568/194684386-7422fd05-e0a1-403b-8878-76e403a4fab3.png)
+![image](https://user-images.githubusercontent.com/113620568/194682387-8228f948-073f-4647-a7e2-c6f1d6927707.png)
+
 
 ## Выводы
 - В этой работе я научился работать с GoogleColab и программой Unity , а также я вывел скрипт в Google.colab и скрипт "Hello,world!" в Unity.
