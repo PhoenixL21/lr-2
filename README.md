@@ -40,16 +40,14 @@
 ## Задание 1
 ### Реализовать совместную работу и передачу данных в связке Python - Google-Sheets – Unity.
 Ход работы:
-- Создал новый блокнот в GoogleColab
-- Написал print("Hello,world!")
-- ![0tKYeyiQnS8](https://user-images.githubusercontent.com/114604222/192838734-017b7c77-ee64-4ae4-8b91-5f21519fd52b.jpg)
-- Сохранил на гугл диск
-- ![image](https://user-images.githubusercontent.com/114604222/192835237-f93e8986-fc70-4852-a0d0-175fff7f7fd2.png)
-- Написал скрипт в юнити
-- ![OYqAGel9rQY](https://user-images.githubusercontent.com/114604222/192841974-e16290f0-e50f-4add-98b3-06f71be90cf9.jpg)
-- Вывел сообщение в консоль
-- ![aJrAq29iGHc](https://user-images.githubusercontent.com/114604222/192842187-985d76cb-18a9-4b0a-8c1f-045d8f00131f.jpg)
-
+- В облачном сервисе google console подключить API для работы с google
+sheets и google drive.
+- Реализовать запись данных из скрипта на python в google-таблицу. Данные
+описывают изменение стоимости игрового объкта.
+- Создать новый проект на Unity, который будет получать данные из google-
+таблицы, в которую были записаны данные в предыдущем пункте.
+- Написать функционал на Unity, в котором будет воспризводиться аудио-
+файл в зависимости от значения данных из таблицы.
 
 
 
