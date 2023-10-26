@@ -246,16 +246,7 @@ for i in range(10):
 
 ## Выводы
 - В ходе выполнения данной лабораторной работы я научился загружать данные из кода сразу в гугл таблицу, а также считывать эти данные в игру на юнити. 
-Абзац умных слов о том, что было сделано и что было узнано.
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 ## Powered by
 
